@@ -1,0 +1,61 @@
+/* Makes changes to all h1 tags */
+h1 {
+    color:#008cba ;
+ }
+ /* changes the footer */
+ footer {
+     background-color: #008cba;
+     color: #ffffff;
+ }
+ /* Changes to the colour of the links */
+ a {
+ color:#ffffff;
+ }
+ /* Makes changes to the form */
+ form {
+ border: solid 2px #008cba;
+ padding: 40px;
+ margin-top: 20px;
+ }
+ /* Makes changes to images */
+ .img-thumbnail {
+     border: solid 2px #008cba;
+     margin-left: 10px;
+    
+ }
+ /* changes to the container on portfolio page */
+ #container1{
+     margin-left: 50px;
+ }
+ #image1 {
+     margin-bottom: 20px;
+ }
+ /* Style all font awesome icons */
+ .fa {
+     padding: 20px;
+     font-size: 30px;
+     width: 70px;
+     text-align: center;
+     text-decoration: none;
+   }
+   
+   /* Add a hover effect if you want */
+   .fa:hover {
+     opacity: 0.7;
+   }
+   
+   /* Set a specific color for each brand */
+   
+   /* LinkedIn*/
+
+   .fa-linkedin {
+    color: #008cba
+   }
+ 
+ .email {
+   color:#55ACEE; 
+ }
+
+ #experience {
+   text-align: center;
+ }
