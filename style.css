@@ -49,11 +49,14 @@ h1 {
    /* LinkedIn*/
 
    .fa-linkedin {
-    color: #008cba
+    color: #008cba;
+    padding-left: 130px;
    }
  
  .email {
    color:#55ACEE; 
+   padding-left: 50px;
+   margin-left: 50px;
  }
 
 #education {
@@ -73,5 +76,53 @@ h1 {
 
 #button1 {
   margin-top: 20px;
-  margin-bottom: 2px;
+  margin-bottom: 2px
+}
+
+.box {
+  text-align: center;
+  width: 30%;
+  float: left;
+  margin: 50px 20px;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 5px 5px rgba(0,0,0,0.15);
+}
+
+.box h4 {
+  color: #008cba;
+  margin-bottom: 10px;
+}
+
+.box p {
+  height: 50px;
+  overflow: hidden;
+}
+
+.box a {
+  display: inline-block;
+  color:#ffffff;
+  background-color: #2196f3;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+
+.box a:hover {
+  box-shadow: 0 5px 5px rgba(0,0,0,0.2);
+
+}
+
+.box.showContent p {
+height: auto;
+}
+
+.box.showContent a.readmore-btn {
+background-color: black;
+}
+
+.box i {
+  overflow:hidden;
+
 }
