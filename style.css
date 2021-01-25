@@ -100,6 +100,7 @@ h1 {
   padding: 15px;
   border-radius: 8px;
   box-shadow: 0 5px 5px rgba(0,0,0,0.15);
+  
 }
 
 .box h4 {
@@ -149,4 +150,8 @@ background-color: black;
 
 @media only screen and (min-width: 768px) {
  
+}
+
+.reliable {
+  float: right;
 }
