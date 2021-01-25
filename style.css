@@ -89,7 +89,12 @@ h1 {
 
 #button1 {
   margin-top: 20px;
-  margin-bottom: 2px
+  margin-bottom: 2px;
+  background-color: #00004e;
+}
+
+#button2 {
+  background-color: #00004e;
 }
 
 .box {
