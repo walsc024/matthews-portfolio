@@ -1,10 +1,10 @@
 /* Makes changes to all h1 tags */
 h1 {
-    color:#008cba ;
+    color:#00004e ;
  }
  /* changes the footer */
  footer {
-     background-color: #008cba;
+     background-color: #00004e;
      color: #ffffff;
  }
  /* Changes to the colour of the links */
@@ -13,13 +13,13 @@ h1 {
  }
  /* Makes changes to the form */
  form {
- border: solid 2px #008cba;
+ border: solid 2px #00004e;
  padding: 40px;
  margin-top: 20px;
  }
  /* Makes changes to images */
  .img-thumbnail {
-     border: solid 2px #008cba;
+     border: solid 2px #00004e;
      margin-left: 10px;
     
  }
@@ -49,12 +49,12 @@ h1 {
    /* LinkedIn*/
 
    .fa-linkedin {
-    color: #008cba;
+    color: #00004e;
     padding-left: 130px;
    }
 
    .fa-facebook-f {
-     color:#008cba;
+     color:#00004e;
     
    }
 
@@ -63,11 +63,11 @@ h1 {
    }
 
    .fa-instagram {
-     color:#008cba;
+     color:#00004e;
    }
  
  .email {
-   color:#55ACEE; 
+   color:#00004e; 
    padding-left: 50px;
    margin-left: 50px;
  }
@@ -104,7 +104,7 @@ h1 {
 }
 
 .box h4 {
-  color: #008cba;
+  color: #00004e;
   margin-bottom: 10px;
 }
 
@@ -116,7 +116,7 @@ h1 {
 .box a {
   display: inline-block;
   color:#ffffff;
-  background-color: #2196f3;
+  background-color: #00004e;
   text-decoration: none;
   padding: 5px 10px;
   border-radius: 8px;
@@ -148,10 +148,20 @@ background-color: black;
   align-items: center;
 }
 
+.iconBox2 {
+  padding-bottom: 21px;
+}
+
 @media only screen and (min-width: 768px) {
  
 }
 
 .reliable {
   float: right;
+}
+
+.list-group-item {
+  background-color: #00004e;
+  border: 1px solid #ffffff;
+  color: #fff
 }
