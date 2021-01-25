@@ -1,4 +1,8 @@
 /* Makes changes to all h1 tags */
+
+
+
+
 h1 {
     color:#00004e ;
  }
@@ -87,14 +91,20 @@ h1 {
   margin-bottom: 20px;
 }
 
+#button3 {
+background-color:#00004e ;
+margin-top: 20px;
+margin-bottom: 20px;
+}
 #button1 {
-  margin-top: 20px;
-  margin-bottom: 2px;
+ 
+  margin-bottom: 20px;
   background-color: #00004e;
 }
 
 #button2 {
   background-color: #00004e;
+  margin-bottom: 20px;
 }
 
 .box {
